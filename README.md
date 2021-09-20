@@ -28,3 +28,8 @@ cd docker_crack_ws
 vi docker-compose.yml
 docker-compose up -d
 ```
+
+### 前端配置
+```
+132.145.95.184;0;2;tls;ws;path=/nihao|host=xxxx.xxx.xx|inside_port=10550|outside_port=443|server=xxxx.xxx.xx
+```
